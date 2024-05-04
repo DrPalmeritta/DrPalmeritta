@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Nikita Evdokimov / DevOps Engineer
 
-## A passionate DevOps Engineer from Russia
-
-Having 3+ years of experience in DevOps and Automation
+Having 3+ years of experience in DevOps and Automation. A passionate DevOps Engineer from Russia
 
 All of my projects are available on Github:
 
