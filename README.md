@@ -25,8 +25,7 @@ Know about my experiences:
 
 How to reach me **niki98tos@gmail.com**
 
-
-## Technical skills:
+<H1>$${\color{blue}Technical skills}$$</H1>
 
 • DevOps, CI/CD <br />
 • Docker, Kubernetes, Ansible, Jenkins, GitHub, FluxCD, ArgoCD, Helm <br />
