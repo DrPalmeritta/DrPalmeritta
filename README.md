@@ -26,9 +26,7 @@ Know about my experiences:
 How to reach me **niki98tos@gmail.com**
 
 
-<H2><span style="color:orange;">Technical skills:</span></H2>
-
-${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
+<H2>${{\color{Goldenrod}\Huge{\textsf{  Technical skills: }}}}\$</H2>
 
 • DevOps, CI/CD <br />
 • Docker, Kubernetes, Ansible, Jenkins, GitHub, FluxCD, ArgoCD, Helm <br />
