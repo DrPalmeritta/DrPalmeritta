@@ -7,7 +7,7 @@
 
 ## Hi 👋, I'm Nikita Evdokimov / DevOps Engineer
 
-Having 3+ years of experience in DevOps and Automation. A passionate DevOps Engineer from Russia
+Having @@3+@@ years of experience in DevOps and Automation. A passionate DevOps Engineer from Russia
 
 All of my projects are available on Github:
 
@@ -25,7 +25,8 @@ Know about my experiences:
 
 How to reach me **niki98tos@gmail.com**
 
-<H1>$${\color{blue}Technical skills}$$</H1>
+
+<H2><span style="color:orange;">Technical skills:</span></H2>
 
 • DevOps, CI/CD <br />
 • Docker, Kubernetes, Ansible, Jenkins, GitHub, FluxCD, ArgoCD, Helm <br />
