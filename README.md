@@ -28,8 +28,6 @@ How to reach me **niki98tos@gmail.com**
 
 <H2><span style="color:orange;">Technical skills:</span></H2>
 
-<H2><p style='color:red'>This is some red text.</p></H2>
-
 • DevOps, CI/CD <br />
 • Docker, Kubernetes, Ansible, Jenkins, GitHub, FluxCD, ArgoCD, Helm <br />
 • Programming : bash, python <br />
