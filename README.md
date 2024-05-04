@@ -4,16 +4,18 @@
 
 Having 3+ years of experience in DevOps and Automation
 
-All of my projects are available on Github:<br />
+All of my projects are available on Github:
 
 <a href="https://github.com/DrPalmeritta/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <br />
+<br />
 
-Know about my experiences:<br />
+Know about my experiences:
 
 <a href="www.linkedin.com/in/drpalma/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<br />
 <br />
 
 How to reach me **niki98tos@gmail.com**
