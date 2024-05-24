@@ -27,7 +27,7 @@ How to reach me **niki98tos@gmail.com**
 
 
 ${{\color{orange}\Huge{\textsf{ Technical skills }}}}\$
-=====
+-----
 
 • DevOps, CI/CD <br />
 • Docker, Kubernetes, Ansible, Jenkins, GitHub, FluxCD, ArgoCD, Helm <br />
@@ -37,12 +37,13 @@ ${{\color{orange}\Huge{\textsf{ Technical skills }}}}\$
 
 
 ${{\color{orange}\Huge{\textsf{ BLOGS }}}}\$
+-----
 
 Delve into my latest thoughts, insights, and experiences in the own realm of DevOps on my curated [Articles Page](https://github.com/DrPalmeritta/BLOGS).
 
 
 ${{\color{orange}\Huge{\textsf{ Languages and Tools }}}}\$
-=====
+-----
 <div>
 
 ### Languages
@@ -82,6 +83,7 @@ ${{\color{orange}\Huge{\textsf{ Languages and Tools }}}}\$
 </div>
 
 ${{\color{orange}\Huge{\textsf{ Profile statistics }}}}\$
+-----
 
 <div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=DrPalmeritta&style=for-the-badge&color=blueviolet" alt=""/>
@@ -90,6 +92,7 @@ ${{\color{orange}\Huge{\textsf{ Profile statistics }}}}\$
 
 
 ${{\color{orange}\Huge{\textsf{ Snake magic ✨ }}}}\$
+-----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrPalmeritta/DrPalmeritta/output/github-contribution-grid-snake-dark.svg">
