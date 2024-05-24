@@ -26,7 +26,6 @@ Know about my experiences:
 How to reach me **niki98tos@gmail.com**
 
 <br />
-<br />
 
 ${{\color{orange}{\textsf{ Technical skills }}}}\$
 -----
@@ -38,14 +37,12 @@ ${{\color{orange}{\textsf{ Technical skills }}}}\$
 • JIRA, Confluence<br />
 
 <br />
-<br />
 
-${{\color{orange}\Huge{\textsf{ BLOGS }}}}\$
+${{\color{orange}{\textsf{ BLOGS }}}}\$
 -----
 
 Delve into my latest thoughts, insights, and experiences in the own realm of DevOps on my curated [Articles Page](https://github.com/DrPalmeritta/BLOGS).
 
-<br />
 <br />
 
 ${{\color{orange}{\textsf{ Languages and Tools }}}}\$
@@ -89,7 +86,6 @@ ${{\color{orange}{\textsf{ Languages and Tools }}}}\$
 </div>
 
 <br />
-<br />
 
 ${{\color{orange}{\textsf{ Profile statistics }}}}\$
 -----
@@ -99,7 +95,6 @@ ${{\color{orange}{\textsf{ Profile statistics }}}}\$
   <!-- original source with color pallete avaliable via: https://github.com/antonkomarev/github-profile-views-counter -->
 </div>
 
-<br />
 <br />
 
 ${{\color{orange}{\textsf{ Snake magic ✨ }}}}\$
