@@ -27,6 +27,7 @@ How to reach me **niki98tos@gmail.com**
 
 
 ${{\color{orange}\Huge{\textsf{ Technical skills }}}}\$
+=====
 
 • DevOps, CI/CD <br />
 • Docker, Kubernetes, Ansible, Jenkins, GitHub, FluxCD, ArgoCD, Helm <br />
@@ -41,6 +42,7 @@ Delve into my latest thoughts, insights, and experiences in the own realm of Dev
 
 
 ${{\color{orange}\Huge{\textsf{ Languages and Tools }}}}\$
+=====
 <div>
 
 ### Languages
