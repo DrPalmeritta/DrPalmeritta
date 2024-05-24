@@ -82,7 +82,7 @@ ${{\color{orange}\Huge{\textsf{ Languages and Tools }}}}\$
 
 </div>
 
-${{\color{orange}\Huge{\textsf{ Profile statistics }}}}\$
+${{\color{orange}{\textsf{ Profile statistics }}}}\$
 -----
 
 <div id="header" align="left">
@@ -91,7 +91,7 @@ ${{\color{orange}\Huge{\textsf{ Profile statistics }}}}\$
 </div>
 
 
-${{\color{orange}\Huge{\textsf{ Snake magic ✨ }}}}\$
+${{\color{orange}{\textsf{ Snake magic ✨ }}}}\$
 -----
 
 <picture>
