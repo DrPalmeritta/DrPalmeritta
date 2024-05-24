@@ -43,7 +43,8 @@ Delve into my latest thoughts, insights, and experiences in the own realm of Dev
 ${{\color{orange}\Huge{\textsf{ Languages and Tools }}}}\$
 <div>
 
-### Languages:
+### Languages
+
 | Python3 | Bash | HTML5 | LaTex | Lua |
 |----------|----------|----------|----------|----------|
 | <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTex" alt="LaTex" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="55" height="55"/> |
@@ -60,7 +61,7 @@ ${{\color{orange}\Huge{\textsf{ Languages and Tools }}}}\$
 
 | Kubernetes | Jenkins | Docker | Ansible | ArgoCD | Helm | ELK | Grafana | Prometheus |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="55" height="55"/> | <img src="???" title="ArgoCD" alt="ArgoCD" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ELK" alt="ELK" width="80" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="55" height="55"/> | <img src="https://github.com/DrPalmeritta/external-devicons/blob/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ELK" alt="ELK" width="80" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/> |
 
 
 ### OS
@@ -73,19 +74,20 @@ ${{\color{orange}\Huge{\textsf{ Languages and Tools }}}}\$
 ### Useful tools
 
 | Bamboo | Bitbucket | Git | Confluence | Jira | SubLime | Notion |
-|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" title="Bamboo" alt="Bamboo" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" title="Sublime" alt="Sublime" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="55" height="55"/> |
 
 </div>
 
-## Profile statistics
+${{\color{orange}\Huge{\textsf{ Profile statistics }}}}\$
 
 <div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=DrPalmeritta&style=for-the-badge&color=purple" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=DrPalmeritta&style=for-the-badge&color=blueviolet" alt=""/>
+  <!-- original source with color pallete avaliable via: https://github.com/antonkomarev/github-profile-views-counter -->
 </div>
 
 
-## Snake magic ✨
+${{\color{orange}\Huge{\textsf{ Snake magic ✨ }}}}\$
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrPalmeritta/DrPalmeritta/output/github-contribution-grid-snake-dark.svg">
