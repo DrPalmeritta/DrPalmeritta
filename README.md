@@ -90,6 +90,10 @@ ${{\color{orange}{\textsf{ Languages and Tools }}}}\$
 ${{\color{orange}{\textsf{ Profile statistics }}}}\$
 -----
 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DrPalmeritta&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 <div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=DrPalmeritta&style=for-the-badge&color=blueviolet" alt=""/>
   <!-- original source with color pallete avaliable via: https://github.com/antonkomarev/github-profile-views-counter -->
